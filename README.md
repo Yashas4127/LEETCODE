@@ -7,4 +7,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0584-find-customer-referee](https://github.com/Yashas4127/LEETCODE/tree/main/0584-find-customer-referee/) | Easy |
+| [0620-not-boring-movies](https://github.com/Yashas4127/LEETCODE/tree/main/0620-not-boring-movies/) | Easy |
 <!---LeetCode Topics End-->

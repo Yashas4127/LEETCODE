@@ -8,4 +8,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0584-find-customer-referee](https://github.com/Yashas4127/LEETCODE/tree/main/0584-find-customer-referee/) | Easy |
 | [0620-not-boring-movies](https://github.com/Yashas4127/LEETCODE/tree/main/0620-not-boring-movies/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Yashas4127/LEETCODE/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Yashas4127/LEETCODE/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Yashas4127/LEETCODE/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->

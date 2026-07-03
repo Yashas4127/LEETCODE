@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Yashas4127/LEETCODE/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0930-binary-subarrays-with-sum](https://github.com/Yashas4127/LEETCODE/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/0992-subarrays-with-k-different-integers/) | Hard |
+| [1046-last-stone-weight](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Yashas4127/LEETCODE/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yashas4127/LEETCODE/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/2558-take-gifts-from-the-richest-pile/) | Easy |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1046-last-stone-weight](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/2558-take-gifts-from-the-richest-pile/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |

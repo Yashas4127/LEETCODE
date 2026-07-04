@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yashas4127/LEETCODE/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+| [0912-sort-an-array](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Yashas4127/LEETCODE/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/0992-subarrays-with-k-different-integers/) | Hard |
 | [1046-last-stone-weight](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yashas4127/LEETCODE/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+| [0912-sort-an-array](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+| [0912-sort-an-array](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/2558-take-gifts-from-the-richest-pile/) | Easy |
 ## Simulation
@@ -74,8 +77,25 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+| [0912-sort-an-array](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->

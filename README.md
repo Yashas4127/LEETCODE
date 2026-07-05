@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0912-sort-an-array](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0912-sort-an-array](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 ## Quickselect
@@ -132,4 +134,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
 <!---LeetCode Topics End-->

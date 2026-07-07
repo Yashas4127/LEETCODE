@@ -41,14 +41,6 @@ private:
 };
 
 
-
-
-
-
-
-
-
-
 class Solution {
 public:
     bool issafe(vector<string> &b,int row,int col,int n){

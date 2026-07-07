@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yashas4127/LEETCODE/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0051-n-queens](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
@@ -160,4 +161,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->

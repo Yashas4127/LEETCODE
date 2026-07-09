@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/Yashas4127/LEETCODE/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/1354-construct-target-array-with-multiple-sums/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yashas4127/LEETCODE/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Binary Search
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/2558-take-gifts-from-the-richest-pile/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -175,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |

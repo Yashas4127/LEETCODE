@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/2558-take-gifts-from-the-richest-pile/) | Easy |
 ## Sorting
@@ -177,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## Two Pointers

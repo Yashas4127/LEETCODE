@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0016-3sum-closest/) | Medium |
 | [0031-next-permutation](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
+| [0048-rotate-image](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Yashas4127/LEETCODE/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Sliding Window
@@ -174,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## Two Pointers

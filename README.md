@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
+| [0179-largest-number](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0179-largest-number](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0179-largest-number/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yashas4127/LEETCODE/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yashas4127/LEETCODE/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 ## Counting
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
+| [0179-largest-number](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
@@ -234,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
+| [0179-largest-number](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0179-largest-number/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0646-maximum-length-of-pair-chain](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0860-lemonade-change](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/0860-lemonade-change/) | Easy |

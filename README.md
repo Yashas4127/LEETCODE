@@ -176,11 +176,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0143-reorder-list](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0237-delete-node-in-a-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0143-reorder-list](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0016-3sum-closest/) | Medium |
 | [0031-next-permutation](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
+| [0143-reorder-list](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -252,4 +255,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0143-reorder-list](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 <!---LeetCode Topics End-->

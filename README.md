@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0138-copy-list-with-random-pointer/) | Medium |
 | [0169-majority-element](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0138-copy-list-with-random-pointer/) | Medium |
 | [0143-reorder-list](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0237-delete-node-in-a-linked-list/) | Medium |
 ## Stack

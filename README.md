@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0138-copy-list-with-random-pointer/) | Medium |
 | [0143-reorder-list](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0237-delete-node-in-a-linked-list/) | Medium |
+| [0707-design-linked-list](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0707-design-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -278,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
+| [0707-design-linked-list](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0707-design-linked-list/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |

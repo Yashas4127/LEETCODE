@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yashas4127/LEETCODE/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yashas4127/LEETCODE/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -225,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |

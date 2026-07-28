@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
+| [0041-first-missing-positive](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
 | [0045-jump-game-ii](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0041-first-missing-positive](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0138-copy-list-with-random-pointer/) | Medium |

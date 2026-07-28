@@ -3,6 +3,7 @@ public:
     int firstMissingPositive(vector<int>& nums) {
         int maxi=*max_element(nums.begin(),nums.end());
 
+        //Space ide tagi amele
         unordered_map<int,int>mpp;
 
         for(int it: nums){

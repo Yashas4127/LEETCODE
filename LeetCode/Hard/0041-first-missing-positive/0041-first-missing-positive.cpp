@@ -1,21 +1,15 @@
 class Solution {
 public:
     int firstMissingPositive(vector<int>& nums) {
-        int maxi=*max_element(nums.begin(),nums.end());
+        set<int>s;
 
-        //Space ide tagi amele
-        unordered_map<int,int>mpp;
+        for(int it:nums) s.insert(it);
 
-        for(int it: nums){
-            mpp[it]++;
+        int hm=1;
+
+        while(s.find(hm)!=s.end()){
+            hm++;
         }
-
-        int i=0;
-        for(i=1;i<=maxi;i++){
-            if(mpp.find(i)==mpp.end()){
-               break;
-            }
-        }
-        return i;
+        return hm;
     }
 };

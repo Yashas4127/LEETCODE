@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yashas4127/LEETCODE/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/Yashas4127/LEETCODE/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/2235-add-two-integers/) | Easy |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1768-merge-strings-alternately](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yashas4127/LEETCODE/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -164,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0992-subarrays-with-k-different-integers](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/0992-subarrays-with-k-different-integers/) | Hard |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -368,4 +372,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1472-design-browser-history](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 <!---LeetCode Topics End-->

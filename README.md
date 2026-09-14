@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0486-predict-the-winner](https://github.com/Yashas4127/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
+| [0836-rectangle-overlap](https://github.com/Yashas4127/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Yashas4127/LEETCODE/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/2235-add-two-integers/) | Easy |
@@ -389,4 +390,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Yashas4127/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Yashas4127/LEETCODE/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->

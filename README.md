@@ -365,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yashas4127/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Yashas4127/LEETCODE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Union-Find
 |  |
 | ------- |
@@ -406,13 +407,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0743-network-delay-time](https://github.com/Yashas4127/LEETCODE/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yashas4127/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Yashas4127/LEETCODE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Yashas4127/LEETCODE/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yashas4127/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Yashas4127/LEETCODE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Yashas4127/LEETCODE/tree/master/0743-network-delay-time) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Yashas4127/LEETCODE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Topological Sort
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Yashas4127/LEETCODE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->

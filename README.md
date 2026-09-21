@@ -289,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/Yashas4127/LEETCODE/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0958-check-completeness-of-a-binary-tree/) | Medium |
 ## Depth-First Search
 |  |
@@ -304,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/Yashas4127/LEETCODE/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0743-network-delay-time](https://github.com/Yashas4127/LEETCODE/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yashas4127/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0958-check-completeness-of-a-binary-tree/) | Medium |

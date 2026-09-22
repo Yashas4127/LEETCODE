@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yashas4127/LEETCODE/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2255-count-prefixes-of-a-given-string](https://github.com/Yashas4127/LEETCODE/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Yashas4127/LEETCODE/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/2558-take-gifts-from-the-richest-pile/) | Easy |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Yashas4127/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1768-merge-strings-alternately](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yashas4127/LEETCODE/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2255-count-prefixes-of-a-given-string](https://github.com/Yashas4127/LEETCODE/tree/master/2255-count-prefixes-of-a-given-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Yashas4127/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |

@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yashas4127/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
 |  |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2235-add-two-integers](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/2235-add-two-integers/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yashas4127/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |

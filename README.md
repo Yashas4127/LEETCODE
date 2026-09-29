@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Yashas4127/LEETCODE/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yashas4127/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Yashas4127/LEETCODE/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/2558-take-gifts-from-the-richest-pile/) | Easy |
@@ -342,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Yashas4127/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [1260-shift-2d-grid](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yashas4127/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Two Pointers
 |  |
 | ------- |
@@ -409,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Yashas4127/LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Yashas4127/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Yashas4127/LEETCODE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yashas4127/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Union-Find
 |  |
 | ------- |
@@ -484,4 +487,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Yashas4127/LEETCODE/tree/master/0778-swim-in-rising-water) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yashas4127/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->

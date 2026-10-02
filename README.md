@@ -319,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0547-number-of-provinces](https://github.com/Yashas4127/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Yashas4127/LEETCODE/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Yashas4127/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yashas4127/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Yashas4127/LEETCODE/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0547-number-of-provinces](https://github.com/Yashas4127/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Yashas4127/LEETCODE/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Yashas4127/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yashas4127/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -420,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
+| [0547-number-of-provinces](https://github.com/Yashas4127/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0778-swim-in-rising-water](https://github.com/Yashas4127/LEETCODE/tree/master/0778-swim-in-rising-water) |
 ## Recursion
 |  |
@@ -457,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Yashas4127/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Yashas4127/LEETCODE/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yashas4127/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Yashas4127/LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |

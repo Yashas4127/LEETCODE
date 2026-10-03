@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Yashas4127/LEETCODE/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/Yashas4127/LEETCODE/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Yashas4127/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/Yashas4127/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Yashas4127/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Yashas4127/LEETCODE/tree/master/0043-multiply-strings) |
 | [0179-largest-number](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0179-largest-number/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
@@ -228,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Yashas4127/LEETCODE/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0059-spiral-matrix-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |

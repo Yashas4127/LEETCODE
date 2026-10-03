@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/Yashas4127/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Yashas4127/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0179-largest-number](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0179-largest-number/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yashas4127/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Yashas4127/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0155-min-stack](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
@@ -407,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Yashas4127/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
@@ -503,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yashas4127/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Yashas4127/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Yashas4127/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yashas4127/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->

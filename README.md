@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/Yashas4127/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Yashas4127/LEETCODE/tree/master/0043-multiply-strings) |
 | [0179-largest-number](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0179-largest-number/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Yashas4127/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
@@ -341,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Yashas4127/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Yashas4127/LEETCODE/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0547-number-of-provinces](https://github.com/Yashas4127/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Yashas4127/LEETCODE/tree/master/0743-network-delay-time) |
@@ -414,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0051-n-queens](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/0052-n-queens-ii/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/Yashas4127/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |

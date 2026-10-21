@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/3746-minimum-string-length-after-balanced-removals/) | Medium |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Yashas4127/LEETCODE/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Counting
 |  |
 | ------- |

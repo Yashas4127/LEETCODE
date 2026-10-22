@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0043-multiply-strings](https://github.com/Yashas4127/LEETCODE/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
+| [0070-climbing-stairs](https://github.com/Yashas4127/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Yashas4127/LEETCODE/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Yashas4127/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Yashas4127/LEETCODE/tree/master/0509-fibonacci-number) |
@@ -437,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
+| [0070-climbing-stairs](https://github.com/Yashas4127/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0486-predict-the-winner](https://github.com/Yashas4127/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
@@ -555,5 +557,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Yashas4127/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Yashas4127/LEETCODE/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

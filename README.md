@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0057-insert-interval](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0057-insert-interval/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Yashas4127/LEETCODE/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Yashas4127/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
@@ -379,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Yashas4127/LEETCODE/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Yashas4127/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
@@ -452,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Yashas4127/LEETCODE/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Yashas4127/LEETCODE/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Yashas4127/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Yashas4127/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |

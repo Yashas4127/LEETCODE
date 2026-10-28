@@ -14,10 +14,10 @@ func help(i, j int, grid, dp [][]int) int {
 	left := math.MaxInt
 
 	if i > 0 {
-		up = grid[i][j] + help(i-1, j, grid,dp)
+		up = grid[i][j] + help(i-1, j, grid, dp)
 	}
 	if j > 0 {
-		left = grid[i][j] + help(i, j-1, grid,dp)
+		left = grid[i][j] + help(i, j-1, grid, dp)
 	}
 
 	dp[i][j] = min(up, left)
@@ -34,5 +34,24 @@ func minPathSum(grid [][]int) int {
 			dp[i][j] = -1
 		}
 	}
-	return help(n-1, m-1, grid, dp)
+	for i := 0; i < n; i++ {
+		for j := 0; j < m; j++ {
+			if i == 0 && j == 0 {
+				dp[i][j] = grid[i][j]
+                continue;
+			}
+			up := math.MaxInt
+			left := math.MaxInt
+
+			if i > 0 {
+				up = grid[i][j] +dp[i-1][j]
+			}
+			if j > 0 {
+				left = grid[i][j] +dp[i][j-1]
+			}
+
+			dp[i][j] = min(up, left)
+		}
+	}
+	return dp[n-1][m-1];
 }

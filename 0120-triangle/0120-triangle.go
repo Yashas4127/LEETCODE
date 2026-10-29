@@ -1,23 +1,22 @@
-//Bottom up
+//Space optimization
+//front =dp[i+1]
+//curr =dp[i]
 func minimumTotal(triangle [][]int) int {
     n := len(triangle)
 
-    dp := make([][]int, n)
-    for i := 0; i < n; i++ {
-        dp[i] = make([]int, len(triangle[i]))
-        for j := range dp[i] {
-            dp[i][j] = -1
-        }
-    }
+    front := make([]int, n)
+
     for i:=0;i<n;i++{
-        dp[n-1][i]=triangle[n-1][i];
+        front[i]=triangle[n-1][i];
     }
     for i:=n-2;i>=0;i--{
+        curr := make([]int, n)
         for j:=i;j>=0;j--{
-            d:=triangle[i][j]+dp[i+1][j]
-            dg:=triangle[i][j]+dp[i+1][j+1]
-            dp[i][j]=min(d,dg);
+            d:=triangle[i][j]+front[j]
+            dg:=triangle[i][j]+front[j+1]
+            curr[j]=min(d,dg);
         }
+        front=curr
     }
-    return dp[0][0]
+    return front[0]
 }

@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/0118-pascals-triangle/) | Easy |
+| [0120-triangle](https://github.com/Yashas4127/LEETCODE/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -457,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/Yashas4127/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Yashas4127/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/0118-pascals-triangle/) | Easy |
+| [0120-triangle](https://github.com/Yashas4127/LEETCODE/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Yashas4127/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Yashas4127/LEETCODE/tree/master/0213-house-robber-ii) |

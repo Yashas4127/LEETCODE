@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0860-lemonade-change](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/0860-lemonade-change/) | Easy |
 | [0912-sort-an-array](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Yashas4127/LEETCODE/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/Yashas4127/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/0992-subarrays-with-k-different-integers/) | Hard |
 | [1046-last-stone-weight](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Yashas4127/LEETCODE/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -388,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Yashas4127/LEETCODE/tree/master/0778-swim-in-rising-water) |
+| [0931-minimum-falling-path-sum](https://github.com/Yashas4127/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [1260-shift-2d-grid](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yashas4127/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yashas4127/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -469,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yashas4127/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0931-minimum-falling-path-sum](https://github.com/Yashas4127/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Yashas4127/LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Yashas4127/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Yashas4127/LEETCODE/tree/master/1976-number-of-ways-to-arrive-at-destination) |

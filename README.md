@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Yashas4127/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Yashas4127/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Yashas4127/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Yashas4127/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Yashas4127/LEETCODE/tree/master/0189-rotate-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Yashas4127/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Yashas4127/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Yashas4127/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Yashas4127/LEETCODE/tree/master/0836-rectangle-overlap) |

@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1260-shift-2d-grid](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/1354-construct-target-array-with-multiple-sums/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Yashas4127/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1463-cherry-pickup-ii](https://github.com/Yashas4127/LEETCODE/tree/master/1463-cherry-pickup-ii) |
 | [1472-design-browser-history](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Yashas4127/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0704-binary-search](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/Yashas4127/LEETCODE/tree/master/0778-swim-in-rising-water) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Yashas4127/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Yashas4127/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Yashas4127/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Divide and Conquer
@@ -292,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0912-sort-an-array](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Yashas4127/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Yashas4127/LEETCODE/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Yashas4127/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/2410-maximum-matching-of-players-with-trainers/) | Medium |
@@ -417,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Yashas4127/LEETCODE/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Yashas4127/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/2410-maximum-matching-of-players-with-trainers/) | Medium |

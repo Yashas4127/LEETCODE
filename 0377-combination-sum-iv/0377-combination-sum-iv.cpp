@@ -26,7 +26,17 @@ public:
         int n = nums.size();
 
         vector<int> dp(t + 1, -1);
+        dp[0] = 1;
+        for (int ind = 1; ind <=t; ind++) {
+            long long ans = 0;
 
-        return perm(nums, t, n, dp);
+            for (int i = 0; i < n; i++) {
+                if (ind >= nums[i]) {
+                    ans += dp[ind - nums[i]];
+                }
+            }
+            dp[ind] = ans;
+        }
+        return dp[t];
     }
 };

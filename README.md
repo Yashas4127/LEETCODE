@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yashas4127/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Yashas4127/LEETCODE/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Yashas4127/LEETCODE/tree/master/3886-sum-of-sortable-integers) |
 ## Sliding Window
@@ -461,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Yashas4127/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Yashas4127/LEETCODE/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Backtracking
 |  |
 | ------- |

@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Yashas4127/LEETCODE/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0322-coin-change](https://github.com/Yashas4127/LEETCODE/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0377-combination-sum-iv](https://github.com/Yashas4127/LEETCODE/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -385,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Yashas4127/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
+| [0322-coin-change](https://github.com/Yashas4127/LEETCODE/tree/master/0322-coin-change) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Yashas4127/LEETCODE/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0547-number-of-provinces](https://github.com/Yashas4127/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Yashas4127/LEETCODE/tree/master/0743-network-delay-time) |
@@ -490,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Yashas4127/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Yashas4127/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Yashas4127/LEETCODE/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0322-coin-change](https://github.com/Yashas4127/LEETCODE/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Yashas4127/LEETCODE/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Yashas4127/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Yashas4127/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
@@ -625,6 +628,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Yashas4127/LEETCODE/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Yashas4127/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Yashas4127/LEETCODE/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
@@ -632,4 +636,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Yashas4127/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Yashas4127/LEETCODE/tree/master/1049-last-stone-weight-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Yashas4127/LEETCODE/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->

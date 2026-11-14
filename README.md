@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Yashas4127/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yashas4127/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Yashas4127/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
+| [0494-target-sum](https://github.com/Yashas4127/LEETCODE/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
@@ -476,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/0052-n-queens-ii/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/Yashas4127/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
+| [0494-target-sum](https://github.com/Yashas4127/LEETCODE/tree/master/0494-target-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -499,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0377-combination-sum-iv](https://github.com/Yashas4127/LEETCODE/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Yashas4127/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Yashas4127/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
+| [0494-target-sum](https://github.com/Yashas4127/LEETCODE/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Yashas4127/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
@@ -633,11 +636,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0322-coin-change](https://github.com/Yashas4127/LEETCODE/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Yashas4127/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Yashas4127/LEETCODE/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Yashas4127/LEETCODE/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Yashas4127/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Yashas4127/LEETCODE/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Yashas4127/LEETCODE/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |

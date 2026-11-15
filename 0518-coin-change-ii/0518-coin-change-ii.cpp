@@ -1,26 +1,37 @@
 class Solution {
 public:
-    int help(int i, int amt, vector<int>& coins, vector<vector<int>>& dp) {
-        if (amt == 0)
-            return 1;
-        if (i == 0) {
-            if (amt % coins[0] == 0)
-                return 1;
-            return 0;
-        }
-        if (dp[i][amt] != -1)
-            return dp[i][amt];
-        int nP = help(i - 1, amt, coins, dp);
-        int P = 0;
-        if (amt >= coins[i]) {
-            P = help(i, amt - coins[i], coins, dp);
+    int change(int amount, vector<int>& coins) {
+
+        int n = coins.size();
+
+        vector<vector<unsigned long long>> dp(
+            n, vector<unsigned long long>(amount + 1, 0)
+        );
+
+        for (int i = 0; i < n; i++) {
+            dp[i][0] = 1;
         }
 
-        return dp[i][amt] = nP + P;
-    }
-    int change(int amount, vector<int>& coins) {
-        int n = coins.size();
-        vector<vector<int>> dp(n, vector<int>(amount+1, -1));
-        return help(n - 1, amount, coins, dp);
+        for (int amt = 0; amt <= amount; amt++) {
+            if (amt % coins[0] == 0) {
+                dp[0][amt] = 1;
+            }
+        }
+
+        for (int i = 1; i < n; i++) {
+            for (int amt = 0; amt <= amount; amt++) {
+
+                auto nP = dp[i - 1][amt];
+                unsigned long long P = 0;
+
+                if (amt >= coins[i]) {
+                    P = dp[i][amt - coins[i]];
+                }
+
+                dp[i][amt] = nP + P;
+            }
+        }
+
+        return dp[n - 1][amount];
     }
 };

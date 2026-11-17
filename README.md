@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1049-last-stone-weight-ii](https://github.com/Yashas4127/LEETCODE/tree/master/1049-last-stone-weight-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Yashas4127/LEETCODE/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/Yashas4127/LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/1354-construct-target-array-with-multiple-sums/) | Hard |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Yashas4127/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0621-task-scheduler](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Hard/0992-subarrays-with-k-different-integers/) | Hard |
+| [1267-count-servers-that-communicate](https://github.com/Yashas4127/LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Yashas4127/LEETCODE/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -385,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/Yashas4127/LEETCODE/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Yashas4127/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yashas4127/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1267-count-servers-that-communicate](https://github.com/Yashas4127/LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Yashas4127/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yashas4127/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
@@ -403,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-swim-in-rising-water](https://github.com/Yashas4127/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yashas4127/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Yashas4127/LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Yashas4127/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yashas4127/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
@@ -420,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-swim-in-rising-water](https://github.com/Yashas4127/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0931-minimum-falling-path-sum](https://github.com/Yashas4127/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [1260-shift-2d-grid](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/Yashas4127/LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [1463-cherry-pickup-ii](https://github.com/Yashas4127/LEETCODE/tree/master/1463-cherry-pickup-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yashas4127/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yashas4127/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -529,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0547-number-of-provinces](https://github.com/Yashas4127/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0778-swim-in-rising-water](https://github.com/Yashas4127/LEETCODE/tree/master/0778-swim-in-rising-water) |
+| [1267-count-servers-that-communicate](https://github.com/Yashas4127/LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Yashas4127/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yashas4127/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Recursion

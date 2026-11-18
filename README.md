@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yashas4127/LEETCODE/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Yashas4127/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Yashas4127/LEETCODE/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Yashas4127/LEETCODE/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Yashas4127/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |

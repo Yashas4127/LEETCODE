@@ -3,8 +3,10 @@ public:
     int dp[1001][1001];
 
     bool solve(const string& s, int l, int r) {
-        if (l >= r) return true;
-        if (dp[l][r] != -1) return dp[l][r] == 1;
+        if (l >= r)
+            return true;
+        if (dp[l][r] != -1)
+            return dp[l][r] == 1;
 
         bool isPal = false;
         if (s[l] == s[r]) {
@@ -16,7 +18,8 @@ public:
 
     string longestPalindrome(string s) {
         int n = s.size();
-        if (n == 0) return "";
+        if (n == 0)
+            return "";
 
         memset(dp, -1, sizeof(dp));
         int maxLen = 1;
@@ -24,7 +27,7 @@ public:
 
         for (int i = 0; i < n; ++i) {
             for (int j = i; j < n; ++j) {
-                if (solve(s, i, j) && (j - i + 1) > maxLen) {
+                if (((j - i + 1) > maxLen) && solve(s, i, j)) {
                     maxLen = j - i + 1;
                     startInd = i;
                 }

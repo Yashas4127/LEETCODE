@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0583-delete-operation-for-two-strings](https://github.com/Yashas4127/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Yashas4127/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Yashas4127/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0856-score-of-parentheses](https://github.com/Yashas4127/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Yashas4127/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Yashas4127/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
@@ -534,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Yashas4127/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Yashas4127/LEETCODE/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Yashas4127/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yashas4127/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/Yashas4127/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Yashas4127/LEETCODE/tree/master/1049-last-stone-weight-ii) |
@@ -687,6 +689,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/Yashas4127/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Yashas4127/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/Yashas4127/LEETCODE/tree/master/1143-longest-common-subsequence) |
 ## Manacher
 |  |
